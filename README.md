@@ -12,6 +12,9 @@ O Ecoleta é um projeto com fins ecológicos. Nem todo lixo pode ser descartado 
 Este projeto utiliza as seguintes tecnologias:
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
+- [knex](http://knexjs.org/)
+- [Yarn](https://yarnpkg.com/)
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [ESLint](https://eslint.org/)
