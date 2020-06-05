@@ -17,6 +17,7 @@ Este projeto utiliza as seguintes tecnologias:
 - [Yarn](https://yarnpkg.com/)
 - [React](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
+- [Leaflet](https://leafletjs.com/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 <br />
